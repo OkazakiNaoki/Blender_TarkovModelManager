@@ -1,0 +1,298 @@
+{
+    "share": [
+        {
+            "root_name": "weapon_izhmash_akm_762x39_model",
+            "material_name": "weapon_izhmash_akm_762x39_kolodka_LOD0",
+            "texture_name": "handguard_ak_izhmash_akm_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_izhmash_akmn_762x39_model",
+            "material_name": "weapon_izhmash_akm_762x39_kolodka_LOD0",
+            "texture_name": "handguard_ak_izhmash_akm_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_izhmash_akms_762x39_model",
+            "material_name": "weapon_izhmash_akm_762x39_kolodka_LOD0",
+            "texture_name": "handguard_ak_izhmash_akm_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_izhmash_akmsn_762x39_model",
+            "material_name": "weapon_izhmash_akm_762x39_kolodka_LOD0",
+            "texture_name": "handguard_ak_izhmash_akm_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_izhmash_aks74u_545x39_model",
+            "material_name": "weapon_izhmash_aks74u_545x39_kolodka_LOD0",
+            "texture_name": "handguard_aks74u_izhmash_aks74u_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_izhmash_aks74ub_545x39_model",
+            "material_name": "weapon_izhmash_aks74u_545x39_kolodka_LOD0",
+            "texture_name": "handguard_aks74u_izhmash_aks74u_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_izhmash_aks74un_545x39_model",
+            "material_name": "weapon_izhmash_aks74u_545x39_kolodka_LOD0",
+            "texture_name": "handguard_aks74u_izhmash_aks74u_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_sig_mpx_9x19",
+            "material_name": "weapon_sig_mpx_9x19_bolt_LOD0",
+            "texture_name": "reciever_mpx_sig_mpx_gen1_LOD0",
+            "mod_type": "receiver"
+        },
+        {
+            "root_name": "weapon_izhmash_pp-19-01_9x19_model",
+            "material_name": "gas_block_izhmash_pp-19-01_std_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_kel_tec_rfb_762x51_model",
+            "material_name": "weapon_kel_tec_rfb_barrel_ring_LOD0",
+            "texture_name": "barrel_rfb_457mm_762x51_LOD0",
+            "mod_type": "barrel"
+        },
+        {
+            "root_name": "weapon_izhmash_saiga_9_9x19_model",
+            "material_name": "gas_block_izhmash_pp-19-01_std_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_molot_vepr_km_vpo_136_762x39_model",
+            "material_name": "weapon_molot_vepr_km_vpo_136_762x39_kolodka_LOD0",
+            "texture_name": "handguard_ak_molot_vepr_km_vpo_136_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "weapon_molot_vepr_km_vpo_209_366TKM_model",
+            "material_name": "weapon_molot_vepr_km_vpo_209_366TKM_kolodka_LOD0",
+            "texture_name": "handguard_ak_molot_vepr_km_vpo_209_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "barrel_svd_izhmash_565mm_762x54",
+            "material_name": "weapon_izhmash_svd_s_762x54_LOD0",
+            "texture_name": "weapon_izhmash_svd_s_762x54_LOD0",
+            "mod_type": "main"
+        },
+        {
+            "root_name": "bipod_sv-98_izhmash_bipod_std",
+            "material_name": "bipod_sv-98_izhmash_bipod_std_LOD0",
+            "texture_name": "weapon_izhmash_sv-98_762x54r_LOD0",
+            "mod_type": "main"
+        },
+        {
+            "root_name": "gas_block_aksu_izhmash_aksu_std",
+            "material_name": "gas_block_aksu_izhmash_aksu_std_LOD0",
+            "texture_name": "handguard_aks74u_izhmash_aks74u_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "gas_block_ak_izhmash_ak74_std",
+            "material_name": "gas_block_ak_izhmash_ak74_std_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "gas_block_ak_izhmash_pp-19-01_std",
+            "material_name": "gas_block_ak_izhmash_pp-19-01_std_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "gas_block_ak_izhmash_akm_std",
+            "material_name": "gas_block_ak_izhmash_akm_std_LOD0",
+            "texture_name": "handguard_ak_izhmash_akm_std_wood_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "gas_block_ak_molot_vepr_km_vpo_136",
+            "material_name": "handguard_ak_molot_vepr_km_vpo_136_LOD0",
+            "texture_name": "handguard_ak_molot_vepr_km_vpo_136_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "gas_block_ak_ultimak_m1b",
+            "material_name": "handguard_ak_izhmash_vityaz_std_plastic_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "gas_block_ar15_windham_weaponry_rail_gas_block",
+            "material_name": "gas_block_ar15_windham_weaponry_rail_gas_block_LOD0",
+            "texture_name": "sight_rear_ar15_colt_a2_LOD0",
+            "mod_type": "sight rear"
+        },
+        {
+            "root_name": "handguard_ak_ultimak_m1b_std_plastic",
+            "material_name": "gas_block_ak_ultimak_m1b_LOD0",
+            "texture_name": "gas_block_ak_ultimak_m1b_LOD0",
+            "mod_type": "gasblock"
+        },
+        {
+            "root_name": "mag_pm_izhmeh_9x18pm_8",
+            "material_name": "mag_pm_izhmeh_9x18pm_8_LOD0",
+            "texture_name": "weapon_izhmeh_pm_9x18pm_LOD0",
+            "mod_type": "main"
+        },
+        {
+            "root_name": "mag_sks_toz_std_internal_762x39_10",
+            "material_name": "mag_sks_toz_std_internal_762x39_10_LOD0",
+            "texture_name": "weapon_toz_sks_762x39_LOD0",
+            "mod_type": "main"
+        },
+        {
+            "root_name": "mount_all_burris_ar_p_e_p_r_30mm",
+            "material_name": "scope_30mm_burris_fullfield_tac30_1_4x24_LOD0",
+            "texture_name": "scope_30mm_burris_fullfield_tac30_1_4x24_LOD0",
+            "mod_type": "scope"
+        },
+        {
+            "root_name": "mount_all_burris_fast_fire_weaver",
+            "material_name": "mount_all_burris_fast_fire_weaver_LOD0",
+            "texture_name": "scope_base_burris_fast_fire_3_LOD0",
+            "mod_type": "scope"
+        },
+        {
+            "root_name": "mount_keymod_strike_industries_bridge_rail_section",
+            "material_name": "handguard_ak_strike_industries_trax_1_LOD0",
+            "texture_name": "handguard_ak_strike_industries_trax_1_LOD0",
+            "mod_type": "handguard"
+        },
+        {
+            "root_name": "mount_m1a_springfield_armory_socom_16_upper",
+            "material_name": "stock_m1a_springfield_armory_socom_16_LOD0",
+            "texture_name": "stock_m1a_springfield_armory_socom_16_LOD0",
+            "mod_type": "stock"
+        },
+        {
+            "root_name": "mount_sr1mp_tochmash_silencer_base",
+            "material_name": "mount_sr1mp_tochmash_silencer_base_LOD0",
+            "texture_name": "silencer_sr1mp_tochmash_sr1mp_std_9x21_LOD0",
+            "mod_type": "silencer"
+        },
+        {
+            "root_name": "muzzle_all_kel_tec_thread_spacer_762x51",
+            "material_name": "muzzle_all_kel_tec_thread_spacer_762x51_LOD0",
+            "texture_name": "barrel_rfb_457mm_762x51_LOD0",
+            "mod_type": "barrel"
+        },
+        {
+            "root_name": "muzzle_glock_alpha_wolf_thread_protector_9x19",
+            "material_name": "barrel_glock_alpha_wolf_114mm_threaded_9x19_LOD0",
+            "texture_name": "barrel_glock_alpha_wolf_114mm_threaded_9x19_LOD0",
+            "mod_type": "barrel"
+        },
+        {
+            "root_name": "muzzle_glock_double_diamond_thread_protector_9x19",
+            "material_name": "barrel_glock_double_diamond_114mm_threaded_9x19_LOD0",
+            "texture_name": "barrel_glock_double_diamond_114mm_threaded_9x19_LOD0",
+            "mod_type": "barrel"
+        },
+        {
+            "root_name": "muzzle_glock_salient_arms_thread_protector_9x19",
+            "material_name": "barrel_glock_salient_arms_114mm_threaded_9x19_LOD0",
+            "texture_name": "barrel_glock_salient_arms_114mm_threaded_9x19_LOD0",
+            "mod_type": "barrel"
+        },
+        {
+            "root_name": "muzzle_p226_sig_thread_protector_std_9x19",
+            "material_name": "muzzle_p226_sig_thread_protector_std_9x19_LOD0",
+            "texture_name": "barrel_p226_112mm_threaded_9x19_LOD0",
+            "mod_type": "barrel"
+        },
+        {
+            "root_name": "muzzle_pp-91-01_zmz_std_9x18pm",
+            "material_name": "muzzle_pp-91-01_zmz_std_9x18pm_LOD0",
+            "texture_name": "silencer_pp-91-01_zmz_kedr_b_std_9x18pm_LOD0",
+            "mod_type": "silencer"
+        },
+        {
+            "root_name": "sight_front_ak_izhmash_akmp",
+            "material_name": "sight_front_ak_izhmash_akmp_LOD0",
+            "texture_name": "sight_rear_ak_izhmash_akmp_LOD0",
+            "mod_type": "sight rear"
+        },
+        {
+            "root_name": "sight_front_aps_molot_aps_std",
+            "material_name": "sight_rear_aps_molot_aps_std_LOD0",
+            "texture_name": "sight_rear_aps_molot_aps_std_LOD0",
+            "mod_type": "sight rear"
+        },
+        {
+            "root_name": "sight_front_ar15_utg_low_gas_block_a2",
+            "material_name": "sight_front_ar15_utg_low_gas_block_a2_LOD0",
+            "texture_name": "sight_ar15_colt_a2_LOD0",
+            "mod_type": "sight rear"
+        },
+        {
+            "root_name": "sight_front_glock_zev_tech",
+            "material_name": "sight_rear_glock_zev_tech_LOD0",
+            "texture_name": "sight_rear_glock_zev_tech_LOD0",
+            "mod_type": "sight rear"
+        },
+        {
+            "root_name": "sight_front_m1911_colt_m1911a1_std",
+            "material_name": "sight_front_m1911_colt_m1911a1_std_LOD0",
+            "texture_name": "sight_rear_m1911_colt_m1911a1_std_LOD0",
+            "mod_type": "sight rear"
+        },
+        {
+            "root_name": "sight_front_p226_sig_p226r_std",
+            "material_name": "sight_front_p226_sig_p226r_std_LOD0",
+            "texture_name": "sight_p226_sig_p226r_std_LOD0",
+            "mod_type": "sight rear"
+        },
+        {
+            "root_name": "sight_rear_acog_trijicon_acog_backup_rear_sight",
+            "material_name": "scope_base_trijicon_acog_ta01nsn_4x32_LOD0",
+            "texture_name": "scope_base_trijicon_acog_ta01nsn_4x32_LOD0",
+            "mod_type": "scope"
+        },
+        {
+            "root_name": "sight_rear_saiga_izhmash_saiga_fixed",
+            "material_name": "weapon_izhmash_saiga12k_10_12g_LOD0",
+            "texture_name": "weapon_izhmash_saiga12k_10_12g_LOD0",
+            "mod_type": "main"
+        },
+        {
+            "root_name": "silencer_pb_tochmash_std_9x18pm",
+            "material_name": "silencer_pb_tochmash_std_9x18pm_LOD0",
+            "texture_name": "weapon_tochmash_pb_9x18pm_LOD0",
+            "mod_type": "main"
+        },
+        {
+            "root_name": "stock_ar15_hk_enhanced_stock_tube",
+            "material_name": "stock_ar15_hk_stock_ring_LOD0",
+            "texture_name": "reciever_ar15_hk_hk416a5_std_LOD0",
+            "mod_type": "receiver"
+        },
+        {
+            "root_name": "stock_dvl-10_lobaev_dvl-10_std",
+            "material_name": "stock_dvl-10_lobaev_dvl-10_std_LOD0",
+            "texture_name": "weapon_lobaev_dvl-10_308_LOD0",
+            "mod_type": "main"
+        },
+        {
+            "root_name": "tactical_870_fab_defence_agr_870_cap",
+            "material_name": "tactical_870_fab_defence_agr_870_cap_LOD0",
+            "texture_name": "pistolgrip_870_fab_defense_agr_870_grip_LOD0",
+            "mod_type": "pistol grip"
+        },
+        {
+            "root_name": "tactical_ekp_killflash",
+            "material_name": "scope_all_aksion_ekp_8_18_LOD0",
+            "texture_name": "scope_all_aksion_ekp_8_18_LOD0",
+            "mod_type": "scope"
+        }
+    ]
+}

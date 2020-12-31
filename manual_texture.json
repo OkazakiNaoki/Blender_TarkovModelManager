@@ -1,0 +1,454 @@
+{
+    "manual": [
+        {
+            "root_name": "weapon_izhmash_ak74_545x39_model",
+            "material_name": "weapon_izhmash_ak74_545x39_LOD0",
+            "texture_name": "weapon_izhmash_aks74n_545x39_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak74_545x39_model",
+            "material_name": "weapon_izhmash_ak74_545x39_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak74_545x39_model",
+            "material_name": "weapon_izhmash_ak74_545x39_bolt_LOD0",
+            "texture_name": "weapon_izhmash_ak74n_bolt_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak74m_545x39",
+            "material_name": "ak74m_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak74m_545x39",
+            "material_name": "ak74m_dovetail_LOD0",
+            "texture_name": "mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak74n_545x39_model",
+            "material_name": "weapon_izhmash_ak74_545x39_LOD0",
+            "texture_name": "weapon_izhmash_aks74n_545x39_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak74n_545x39_model",
+            "material_name": "weapon_izhmash_ak74_545x39_bolt_LOD0",
+            "texture_name": "weapon_izhmash_ak74n_bolt_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak74n_545x39_model",
+            "material_name": "weapon_izhmash_ak74_545x39_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak74n_545x39_model",
+            "material_name": "weapon_izhmash_ak74_545x39_planka_LOD0",
+            "texture_name": "mount_ak74_izhmash_ak74_dovetail_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak101_556x45",
+            "material_name": "weapon_izhmash_ak74m_545x39_bolt_LOD0",
+            "texture_name": "weapon_izhmash_ak74m_bolt_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak101_556x45",
+            "material_name": "weapon_izhmash_ak74m_dovetail_LOD0",
+            "texture_name": "mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak101_556x45",
+            "material_name": "weapon_izhmash_ak74m_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak102_556x45",
+            "material_name": "weapon_izhmash_ak74m_545x39_bolt_LOD0",
+            "texture_name": "weapon_izhmash_ak74m_bolt_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak102_556x45",
+            "material_name": "weapon_izhmash_ak74m_dovetail_LOD0",
+            "texture_name": "mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak102_556x45",
+            "material_name": "weapon_izhmash_ak74m_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak103_762x39",
+            "material_name": "weapon_izhmash_ak74m_545x39_bolt_LOD0",
+            "texture_name": "weapon_izhmash_ak74m_bolt_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak103_762x39",
+            "material_name": "weapon_izhmash_ak74m_dovetail_LOD0",
+            "texture_name": "mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak103_762x39",
+            "material_name": "weapon_izhmash_ak74m_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak104_762x39",
+            "material_name": "weapon_izhmash_ak74m_545x39_bolt_LOD0",
+            "texture_name": "weapon_izhmash_ak74m_bolt_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak104_762x39",
+            "material_name": "weapon_izhmash_ak74m_dovetail_LOD0",
+            "texture_name": "mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak104_762x39",
+            "material_name": "weapon_izhmash_ak74m_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak105_545x39",
+            "material_name": "weapon_izhmash_ak74m_545x39_bolt_LOD0",
+            "texture_name": "weapon_izhmash_ak74m_bolt_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak105_545x39",
+            "material_name": "weapon_izhmash_ak74m_dovetail_LOD0",
+            "texture_name": "mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_ak105_545x39",
+            "material_name": "weapon_izhmash_ak74m_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_aks74_545x39_model",
+            "material_name": "weapon_izhmash_aks74n_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_aks74n_545x39",
+            "material_name": "weapon_izhmash_aks74n_kolodka_LOD0",
+            "texture_name": "weapon_izhmash_ak74_kolodka_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_aks74u_545x39_model",
+            "material_name": "weapon_izhmash_aks74u_545x39_LOD0",
+            "texture_name": "weapon_izhmash_aks74u_545x39_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_aks74ub_545x39_model",
+            "material_name": "weapon_izhmash_aks74u_545x39_LOD0",
+            "texture_name": "weapon_izhmash_aks74u_545x39_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmash_aks74un_545x39_model",
+            "material_name": "weapon_izhmash_aks74u_545x39_LOD0",
+            "texture_name": "weapon_izhmash_aks74u_545x39_LOD0"
+        },
+        {
+            "root_name": "weapon_dt_mdr_762x51_model",
+            "material_name": "weapon_dt_mdr_762x51_lower_LOD0",
+            "texture_name": "weapon_dt_mdr_556x45_lower_LOD0"
+        },
+        {
+            "root_name": "weapon_dt_mdr_762x51_model",
+            "material_name": "weapon_dt_mdr_762x51_upper_LOD0",
+            "texture_name": "weapon_dt_mdr_556x45_upper_LOD0"
+        },
+        {
+            "root_name": "weapon_glock_glock_18c_gen3_9x19",
+            "material_name": "Default-Material",
+            "texture_name": "weapon_glock_glock_17_gen3_9x19_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmeh_mr133_12g_model",
+            "material_name": "weapon_izhmash_mr133_12g_LOD0",
+            "texture_name": "weapon_izhmeh_mr133_12g_LOD0"
+        },
+        {
+            "root_name": "weapon_izhmeh_mr153_12g_model",
+            "material_name": "weapon_izhmeh_mr133_12g_LOD0",
+            "texture_name": "weapon_izhmeh_mr153_12g_LOD0"
+        },
+        {
+            "root_name": "weapon_bt_mp9_9x19_model",
+            "material_name": "weapon_bt_mp9_internals_LOD0",
+            "texture_name": "weapon_bt_mp9_internals_9x19_LOD0"
+        },
+        {
+            "root_name": "weapon_bt_mp9_9x19n_model",
+            "material_name": "weapon_bt_mp9_n_9x19_LOD0",
+            "texture_name": "weapon_bt_mp9n_9x19_LOD0"
+        },
+        {
+            "root_name": "weapon_bt_mp9_9x19n_model",
+            "material_name": "weapon_bt_mp9_internals_LOD0",
+            "texture_name": "weapon_bt_mp9_internals_9x19_LOD0"
+        },
+        {
+            "root_name": "weapon_tochmash_sr1mp_9x21_model",
+            "material_name": "weapon_tochmash_sr1mp_9x21_LOD0",
+            "texture_name": "weapon_tochmash_sr1mp_9x21"
+        },
+        {
+            "root_name": "weapon_molot_vepr_km_vpo_209_366TKM_model",
+            "material_name": "weapon_molot_vepr_km_vpo_209_366TKM_boltLOD0",
+            "texture_name": "weapon_molot_vepr_km_vpo_136_762x39_bolt_LOD0"
+        },
+        {
+            "root_name": "weapon_fn_p90_57x28_model",
+            "material_name": "charge_p90_km_the_handler_axis_LOD0",
+            "texture_name": "charge_p90_km_the_handler_LOD0"
+        },
+        {
+            "root_name": "barrel_ar10_457mm",
+            "material_name": "barrel_ar10_457mm_LOD0",
+            "texture_name": "barrel_ar10_558mm_LOD0"
+        },
+        {
+            "root_name": "barrel_ar15_260mm",
+            "material_name": "barrel_ar15_260mm_LOD0",
+            "texture_name": "barrel_ar15_370mm_LOD0"
+        },
+        {
+            "root_name": "barrel_ar15_457mm",
+            "material_name": "barrel_ar15_457mm_LOD0",
+            "texture_name": "barrel_ar15_adar_406mm_LOD0"
+        },
+        {
+            "root_name": "barrel_ar15_508mm",
+            "material_name": "barrel_ar15_508mm_LOD0",
+            "texture_name": "barrel_ar15_adar_406mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_510mm_plank",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_540mm",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_540mm_plank",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_610mm",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_610mm_plank",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_660mm",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_660mm_plank",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_710mm",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_710mm_plank",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_750mm",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mr133_750mm_plank",
+            "material_name": "barrel_part_LOD0",
+            "texture_name": "barrel_mr133_510mm_LOD0"
+        },
+        {
+            "root_name": "barrel_mcx_229mm_762x35",
+            "material_name": "barrel_mcx_229mm_762x35_LOD0",
+            "texture_name": "barrel_mcx_171mm_762x35_LOD0"
+        },
+        {
+            "root_name": "charge_mpx_sig_mpx_single_latch",
+            "material_name": "charge_mpx_sig_mpx_single_latch_LOD0",
+            "texture_name": "charge_mpx_sig_mpx_double_latch_LOD0"
+        },
+        {
+            "root_name": "handguard_ak_hexagon_ak",
+            "material_name": "handguard_ak_izhmash_vityaz_std_plastic_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0"
+        },
+        {
+            "root_name": "handguard_ak_hexagon_ak_red",
+            "material_name": "handguard_ak_izhmash_vityaz_std_plastic_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0"
+        },
+        {
+            "root_name": "handguard_ak_izhmash_ak74m_std_plastic",
+            "material_name": "handguard_ak_izhmash_vityaz_std_plastic_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0"
+        },
+        {
+            "root_name": "handguard_ak_izhmash_vityaz_std_plastic",
+            "material_name": "handguard_ak_izhmash_vityaz_std_plastic_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0"
+        },
+        {
+            "root_name": "handguard_ak_zenit_b10",
+            "material_name": "handguard_ak_izhmash_vityaz_std_plastic_LOD0",
+            "texture_name": "handguard_pp-19-01_izhmash_vityaz_std_plastic_LOD0"
+        },
+        {
+            "root_name": "handguard_ar15_dd_ris_ii_fsp_9,5",
+            "material_name": "handguard_ar15_dd_ris_ii_fsp_9,5_LOD0",
+            "texture_name": "handguard_ar15_dd_ris_ii_12,25_LOD0"
+        },
+        {
+            "root_name": "handguard_ar15_kac_ris",
+            "material_name": "handguard_ar15_kac_ris_lower_LOD0",
+            "texture_name": "handguard_ar15_kac_ris_LOD0"
+        },
+        {
+            "root_name": "handguard_ar15_war_sport_lvoa_s_blk",
+            "material_name": "handguard_ar15_war_sport_lvoa_c_LOD0_blk",
+            "texture_name": "handguard_ar15_war_sport_lvoa_c_LOD0_diff_blk"
+        },
+        {
+            "root_name": "handguard_saiga12_utg_pro_mtu002_long_top",
+            "material_name": "handguard_saiga12_utg_pro_mtu002_long_top_LOD0",
+            "texture_name": "handguard_saiga12_utg_pro_mtu002_LOD0"
+        },
+        {
+            "root_name": "handguard_saiga12_utg_pro_mtu002_short_top",
+            "material_name": "handguard_saiga12_utg_pro_mtu002_short_top_LOD0",
+            "texture_name": "handguard_saiga12_utg_pro_mtu002_LOD0"
+        },
+        {
+            "root_name": "handguard_mcx_sig_gen1_12_inch_keymod",
+            "material_name": "handguard_mcx_sig_gen1_12inch_keymod_LOD0",
+            "texture_name": "handguard_mcx_sig_gen1_12_inch_keymod_LOD0"
+        },
+        {
+            "root_name": "mag_m700_promag_aa70_762x51_10",
+            "material_name": "mag_m700_promag_aa70_762x51_10_LOD0",
+            "texture_name": "mag_m700_archangel_aa70_762x51_10_LOD0"
+        },
+        {
+            "root_name": "mag_mr133_izhmeh_12g_8",
+            "material_name": "mag_mr133_izhmeh_12g_8_LOD0",
+            "texture_name": "mag_mr133_izhmeh_12g_6_LOD0"
+        },
+        {
+            "root_name": "mount_base_aimpoint_h1_t1_spacer",
+            "material_name": "mount_base_aimpoint_h1_t1_spacer_LOD0",
+            "texture_name": "mount_all_aimpoint_h1_t1_weaver_LOD0"
+        },
+        {
+            "root_name": "mount_keymod_strike_industries_4_inch_rail_section",
+            "material_name": "mount_keymod_strike_industries_4_inch_rail_section_LOD0",
+            "texture_name": "mount_keymod_strike_industries_rail_sections_LOD0"
+        },
+        {
+            "root_name": "mount_keymod_strike_industries_6_inch_rail_section",
+            "material_name": "mount_keymod_strike_industries_6_inch_rail_section_LOD0",
+            "texture_name": "mount_keymod_strike_industries_rail_sections_LOD0"
+        },
+        {
+            "root_name": "mount_mk10_alexander_arms_3_inch_rail_section",
+            "material_name": "mount_mk10_alexander_arms_10_inch_rail_section_LOD0",
+            "texture_name": "mount_mk10_alexander_arms_rail_sections_LOD0"
+        },
+        {
+            "root_name": "mount_mk10_alexander_arms_10_inch_rail_section",
+            "material_name": "mount_mk10_alexander_arms_10_inch_rail_section_LOD0",
+            "texture_name": "mount_mk10_alexander_arms_rail_sections_LOD0"
+        },
+        {
+            "root_name": "muzzle_saiga12_silencerco_salvo_adaper_12g",
+            "material_name": "muzzle_saiga12_silencerco_salvo_adaper_12g_LOD0",
+            "texture_name": "muzzle_12g_silencerco_salvo_adaper_12g_LOD0"
+        },
+        {
+            "root_name": "muzzle_base_sig_two_port_brake_762x51",
+            "material_name": "muzzle_base_sig_muzzle_break_2_762x51_LOD0",
+            "texture_name": "muzzle_base_sig_two_port_brake_762x51_LOD0"
+        },
+        {
+            "root_name": "scope_dovetail_ekb_okp7_dovetail",
+            "material_name": "scope_dovetail_ekb_okp7_dovetail_LOD0",
+            "texture_name": "scope_all_ekb_okp7_dovetail_LOD0"
+        },
+        {
+            "root_name": "sight_front_all_sig_flip_up",
+            "material_name": "sight_rear_all_sig_flip_up_LOD0",
+            "texture_name": "sight_front_all_sig_flip_up_LOD0"
+        },
+        {
+            "root_name": "sight_rear_ak_izhmash_rpk16_rear_sight_std",
+            "material_name": "reciever_rpk16_izhmash_rpk16_std_LOD0",
+            "texture_name": "sight_rear_all_izhmash_rpk16_std_LOD0"
+        },
+        {
+            "root_name": "sight_rear_p226_sig_p226r_std",
+            "material_name": "sight_rear_p226_sig_p226r_std_LOD0",
+            "texture_name": "sight_p226_sig_p226r_std_LOD0"
+        },
+        {
+            "root_name": "silencer_vss_tochmash_std_9x39",
+            "material_name": "silencer_vss_tochmash_std_9x39_LOD0",
+            "texture_name": "silencer_val_tochmash_std_9x39_LOD0"
+        },
+        {
+            "root_name": "stock_ak_fab_defense_uas_ak_p",
+            "material_name": "stock_ak_fab_defense_uas_ak_p_LOD0",
+            "texture_name": "stock_ak_fab_defense_uas_ak_LOD0"
+        },
+        {
+            "root_name": "stock_ar15_armacon_baskak",
+            "material_name": "stock_ar15_colt_stock_tube_std_LOD0",
+            "texture_name": "stock_ar15_high_standart_m4ss_LOD0"
+        },
+        {
+            "root_name": "stock_ar15_colt_stock_tube_com",
+            "material_name": "stock_ar15_colt_stock_tube_std_LOD0",
+            "texture_name": "stock_ar15_high_standart_m4ss_LOD0"
+        },
+        {
+            "root_name": "stock_ar15_colt_stock_tube_std",
+            "material_name": "stock_ar15_colt_stock_tube_std_LOD0",
+            "texture_name": "stock_ar15_high_standart_m4ss_LOD0"
+        },
+        {
+            "root_name": "stock_ar15_ergo_f93_pro_stock",
+            "material_name": "stock_ar15_colt_stock_tube_std_LOD0",
+            "texture_name": "stock_ar15_high_standart_m4ss_LOD0"
+        },
+        {
+            "root_name": "stock_ar15_strike_industries_advanced_receiver_extension",
+            "material_name": "stock_ar15_colt_stock_tube_std_LOD0",
+            "texture_name": "stock_ar15_high_standart_m4ss_LOD0"
+        },
+        {
+            "root_name": "stock_ar15_strike_industries_advanced_receiver_extension_red",
+            "material_name": "stock_ar15_colt_stock_tube_std_LOD0",
+            "texture_name": "stock_ar15_high_standart_m4ss_LOD0"
+        },
+        {
+            "root_name": "stock_ump_hk_ump_std",
+            "material_name": "mag_ump_hk_ump_1143x23_25_LOD0",
+            "texture_name": "stock_ump_hk_ump_std_LOD0"
+        }
+    ]
+}

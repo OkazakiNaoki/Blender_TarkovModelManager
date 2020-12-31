@@ -1,0 +1,100 @@
+{
+    "L63": [
+        {
+            "root_name": "barrel_870_express_rifle_sights_fixed_improved_cylinder_508mm",
+            "material_name": "barrel_870_express_rifle_sights_fixed_improved_cylinder_d356082",
+            "texture_name": "barrel_870_express_rifle_sights_fixed_improved_cylinder_508mm_LOD0",
+            "mod_type": "barrel"
+        },
+        {
+            "root_name": "barrel_m1a_springfield_armory_6_groove_national_match_558mm",
+            "material_name": "barrel_m1a_springfield_armory_6_groove_national_match_5_d03279f",
+            "texture_name": "barrel_m1a_springfield_armory_6_groove_national_match_558mm_LOD0",
+            "mod_type": "barrel"
+        },
+        {
+            "root_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_m_c955de8",
+            "material_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_m_8a87cd5",
+            "texture_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_magmount_34mm_LOD0",
+            "mod_type": "mount"
+        },
+        {
+            "root_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_m_23625c8",
+            "material_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_m_8a87cd5",
+            "texture_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_magmount_multimount_34mm_LOD0",
+            "mod_type": "mount"
+        },
+        {
+            "root_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_m_23625c8",
+            "material_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_m_d28b3cd",
+            "texture_name": "mount_all_nightforce_x_treme_duty_ultralite_one_piece_magmount_multimount_34mm_LOD0",
+            "mod_type": "mount"
+        },
+        {
+            "root_name": "muzzle_ar10_precision_armament_m11_severe_duty_muzzle_b_fc7672a",
+            "material_name": "muzzle_ar10_precision_armament_m11_severe_duty_muzzle_b_c973c23",
+            "texture_name": "muzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51_LOD0",
+            "mod_type": "muzzle"
+        },
+        {
+            "root_name": "muzzle_m1a_smith_enterprise_socom_16_threaded_gas_lock_762x51",
+            "material_name": "muzzle_m1a_smith_enterprise_socom_16_threaded_gas_lock__997bdab",
+            "texture_name": "muzzle_m1a_smith_enterprise_socom_16_threaded_gas_lock_762x51_LOD0",
+            "mod_type": "muzzle"
+        },
+        {
+            "root_name": "muzzle_m1a_smith_enterprise_socom_16_threaded_gas_lock__84dcb0d",
+            "material_name": "muzzle_m1a_springfield_armory_national_match_flash_supp_bb8e588",
+            "texture_name": "muzzle_m1a_springfield_armory_national_match_flash_suppressor_762x51_LOD0",
+            "mod_type": "muzzle"
+        },
+        {
+            "root_name": "muzzle_m14_smith_enterprise_vortex_dc_flash_eliminator_762x51",
+            "material_name": "muzzle_m14_smith_enterprise_vortex_dc_flash_eliminator__e2a8db4",
+            "texture_name": "muzzle_m14_smith_enterprise_vortex_dc_flash_eliminator_762x51_LOD0",
+            "mod_type": "muzzle"
+        },
+        {
+            "root_name": "muzzle_mosin_witt_machine_custom_clamp_on_muzzle_brake_762x54r",
+            "material_name": "muzzle_mosin_witt_machine_custom_clamp_on_muzzle_brake__5247af9",
+            "texture_name": "muzzle_mosin_witt_machine_custom_clamp_on_muzzle_brake_762x54r_LOD0",
+            "mod_type": "muzzle"
+        },
+        {
+            "root_name": "muzzle_mp5_hk_navy_style_3_lug_supressor_adapter_thread_abf75fb",
+            "material_name": "muzzle_mp5_hk_navy_style_3_lug_supressor_adapter_thread_6c02487",
+            "texture_name": "muzzle_mp5_hk_navy_style_3_lug_supressor_adapter_thread_protector_LOD0",
+            "mod_type": "muzzle"
+        },
+        {
+            "root_name": "muzzle_all_silencerco_omega_45k_direct_thread_adapter_1143x23",
+            "material_name": "muzzle_all_silencerco_omega_45k_direct_thread_adapter_1_f730eef",
+            "texture_name": "muzzle_all_silencerco_omega_45k_direct_thread_adapter_1143x23_LOD0",
+            "mod_type": "muzzle"
+        },
+        {
+            "root_name": "sight_front_m1a_springfield_armory_national_match_062_blade",
+            "material_name": "sight_front_m1a_springfield_armory_national_match_062_b_176221b",
+            "texture_name": "sight_front_m1a_springfield_armory_national_match_062_blade_LOD0",
+            "mod_type": "sight front"
+        },
+        {
+            "root_name": "sight_rear_m14_springfield_armory_enlarged_military_ape_db7bd6a",
+            "material_name": "sight_rear_m14_springfield_armory_enlarged_military_ape_e842565",
+            "texture_name": "sight_rear_m14_springfield_armory_enlarged_military_aperture_135_LOD0",
+            "mod_type": "sight rear"
+        },
+        {
+            "root_name": "stock_ar15_strike_industries_advanced_receiver_extension_red",
+            "material_name": "stock_ar15_strike_industries_advanced_receiver_extensio_c4928d3",
+            "texture_name": "stock_ar15_strike_industries_advanced_receiver_extension_LOD0_diff_red",
+            "mod_type": "stock"
+        },
+        {
+            "root_name": "stock_m700_hogue_overmolded_ghillie_green_pillar_bedded_stock",
+            "material_name": "stock_m700_hogue_overmolded_ghillie_green_pillar_bedded_471bbf3",
+            "texture_name": "stock_m700_hogue_overmolded_ghillie_green_pillar_bedded_stock_LOD0",
+            "mod_type": "stock"
+        }
+    ]
+}

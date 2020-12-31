@@ -1,0 +1,96 @@
+{
+    "mod_and_slot": [
+        {
+            "mod": "barrel",
+            "slot": "mod_barrel"
+        },
+        {
+            "mod": "bipod",
+            "slot": "mod_bipod"
+        },
+        {
+            "mod": "charge",
+            "slot": "mod_charge"
+        },
+        {
+            "mod": "flashlight",
+            "slot": "mod_tactical"
+        },
+        {
+            "mod": "foregrip",
+            "slot": "mod_foregrip"
+        },
+        {
+            "mod": "gas_block",
+            "slot": "mod_gas_block"
+        },
+        {
+            "mod": "handguard",
+            "slot": "mod_handguard"
+        },
+        {
+            "mod": "launcher",
+            "slot": "mod_launcher"
+        },
+        {
+            "mod": "mag",
+            "slot": "mod_magazine"
+        },
+        {
+            "mod": "hammer",
+            "slot": "mod_hammer"
+        },
+        {
+            "mod": "trigger",
+            "slot": "mod_trigger"
+        },
+        {
+            "mod": "catch",
+            "slot": "mod_catch"
+        },
+        {
+            "mod": "mount",
+            "slot": "mod_mount"
+        },
+        {
+            "mod": "muzzle",
+            "slot": "mod_muzzle"
+        },
+        {
+            "mod": "pistolgrip",
+            "slot": "mod_pistol_grip"
+        },
+        {
+            "mod": "reciever",
+            "slot": "mod_reciever"
+        },
+        {
+            "mod": "scope",
+            "slot": "mod_scope"
+        },
+        {
+            "mod": "sight_front",
+            "slot": "mod_sight_front"
+        },
+        {
+            "mod": "sight_rear",
+            "slot": "mod_sight_rear"
+        },
+        {
+            "mod": "silencer",
+            "slot": "mod_muzzle"
+        },
+        {
+            "mod": "stock",
+            "slot": "mod_stock"
+        },
+        {
+            "mod": "tactical",
+            "slot": "mod_tactical"
+        },
+        {
+            "mod": "not set",
+            "slot": "not set"
+        }
+    ]
+}

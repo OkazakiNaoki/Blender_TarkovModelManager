@@ -1,0 +1,96 @@
+{
+    "items": [
+        {
+            "item_type": "barrel",
+            "texture_path": "//texture/mods/barrels"
+        },
+        {
+            "item_type": "bipod",
+            "texture_path": "//texture/mods/bipods"
+        },
+        {
+            "item_type": "charge",
+            "texture_path": "//texture/mods/charges"
+        },
+        {
+            "item_type": "flashlight",
+            "texture_path": "//texture/mods/flashlights"
+        },
+        {
+            "item_type": "foregrip",
+            "texture_path": "//texture/mods/foregrips"
+        },
+        {
+            "item_type": "gas_block",
+            "texture_path": "//texture/mods/gasblock"
+        },
+        {
+            "item_type": "handguard",
+            "texture_path": "//texture/mods/handguards"
+        },
+        {
+            "item_type": "launcher",
+            "texture_path": "//texture/mods/launchers"
+        },
+        {
+            "item_type": "mag",
+            "texture_path": "//texture/mods/magazines"
+        },
+        {
+            "item_type": "main",
+            "texture_path": "//texture/main"
+        },
+        {
+            "item_type": "hammer",
+            "texture_path": "//texture/mods/mechanics"
+        },
+        {
+            "item_type": "trigger",
+            "texture_path": "//texture/mods/mechanics"
+        },
+        {
+            "item_type": "catch",
+            "texture_path": "//texture/mods/mechanics"
+        },
+        {
+            "item_type": "mount",
+            "texture_path": "//texture/mods/mounts"
+        },
+        {
+            "item_type": "muzzle",
+            "texture_path": "//texture/mods/muzzle"
+        },
+        {
+            "item_type": "pistolgrip",
+            "texture_path": "//texture/mods/pistol grips"
+        },
+        {
+            "item_type": "reciever",
+            "texture_path": "//texture/mods/receivers"
+        },
+        {
+            "item_type": "scope",
+            "texture_path": "//texture/mods/scopes"
+        },
+        {
+            "item_type": "sight_front",
+            "texture_path": "//texture/mods/sights front"
+        },
+        {
+            "item_type": "sight_rear",
+            "texture_path": "//texture/mods/sights rear"
+        },
+        {
+            "item_type": "silencer",
+            "texture_path": "//texture/mods/silencers"
+        },
+        {
+            "item_type": "stock",
+            "texture_path": "//texture/mods/stocks"
+        },
+        {
+            "item_type": "tactical",
+            "texture_path": "//texture/mods/tactical"
+        }
+    ]
+}

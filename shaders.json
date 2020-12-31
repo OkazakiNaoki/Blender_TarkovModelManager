@@ -1,0 +1,41 @@
+{
+    "shaders": [
+        {
+            "description": "Tarkov (DS/G/N)",
+            "shader_name": "Tarkov",
+            "texture_types": [
+                "diff",
+                "gloss",
+                "nrm"
+            ]
+        },
+        {
+            "description": "Unity Spec Std (DG/S/N)",
+            "shader_name": "Unity1",
+            "texture_types": [
+                "diff",
+                "spec",
+                "nrm"
+            ]
+        },
+        {
+            "description": "Unity Spec Std (D/SG/N)",
+            "shader_name": "Unity2",
+            "texture_types": [
+                "diff",
+                "spec",
+                "nrm"
+            ]
+        },
+        {
+            "description": "All separated (D/S/G/N)",
+            "shader_name": "AllSep",
+            "texture_types": [
+                "diff",
+                "spec",
+                "gloss",
+                "nrm"
+            ]
+        }
+    ]
+}
